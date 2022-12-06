@@ -6,4 +6,5 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 
 | Problem | My Solution | Official Solution |
 | -------- | ---------- | --------- |
-| [01-css-methods](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/01-css-methods#readme) | [Before](https://codepen.io/saritkdas1729/pen/jOKXoPo) [After](https://codepen.io/saritkdas1729/pen/yLEGWqO) [Code](./foundations/01-css-methods/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/01-css-methods/solution)
+| [01-css-methods](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/01-css-methods#readme) | [Before](https://codepen.io/saritkdas1729/pen/jOKXoPo) [After](https://codepen.io/saritkdas1729/pen/yLEGWqO) [Code](./foundations/01-css-methods/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/01-css-methods/solution) |
+| [02-class-id-selector](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/02-class-id-selectors) | [Before](https://codepen.io/saritkdas1729/pen/MWXZNzM) [After](https://codepen.io/saritkdas1729/pen/JjZxPry) [Code](./foundations/02-class-id-selector/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/02-class-id-selectors/solution) |

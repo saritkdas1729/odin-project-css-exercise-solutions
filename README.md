@@ -25,3 +25,4 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 | Problem | My Solution | Official Solution |
 | -------- | ---------- | --------- |
 | [01-flex-center](https://github.com/TheOdinProject/css-exercises/tree/main/flex/01-flex-center#center-this-div) | [Before](https://codepen.io/saritkdas1729/pen/qBKzWOG) [After](https://codepen.io/saritkdas1729/pen/KKejPVZ) [Code](./flex/01-flex-center/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/01-flex-center/solution) |
+| [02-flex-header](https://github.com/TheOdinProject/css-exercises/tree/main/flex/02-flex-header#a-basic-header) | [Before](https://codepen.io/saritkdas1729/pen/NWzZWMm) [After](https://codepen.io/saritkdas1729/pen/PoarwGr) [Code](./flex/02-flex-header/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/02-flex-header/solution) |

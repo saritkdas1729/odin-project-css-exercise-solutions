@@ -12,3 +12,9 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 | [04-chaining-selectors](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/04-chaining-selectors#chaining-selectors) | [Before](https://codepen.io/saritkdas1729/pen/LYrqOao) [After](https://codepen.io/saritkdas1729/pen/poKGdBp) [Code](./foundations/04-chaining-selectors/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/04-chaining-selectors/solution) |
 | [05-descendant-combinator](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/05-descendant-combinator#descendant-combinator) | [Before](https://codepen.io/saritkdas1729/pen/abKXEpg) [After](https://codepen.io/saritkdas1729/pen/JjZxMNP) [Code](./foundations/05-descendant-combinator/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/05-descendant-combinator/solution) |
 | [06-cascade-fix](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/06-cascade-fix#css-methods) | [Before](https://codepen.io/saritkdas1729/pen/yLEZKQP) [After](https://codepen.io/saritkdas1729/pen/NWzoYed) [Code](./foundations/06-cascade-fix/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/foundations/06-cascade-fix/solution) |
+
+## Margin And Padding
+
+| Problem | My Solution | Official Solution |
+| -------- | ---------- | --------- |
+| [01-margin-andpadding](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/01-margin-and-padding-1#margin-and-padding-practice) | [Before](https://codepen.io/saritkdas1729/pen/MWXddrP) [After](https://codepen.io/saritkdas1729/pen/qBKGGgb) [Code](./margin-and-padding/01-margin-and-padding-1/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/01-margin-and-padding-1/solution) |

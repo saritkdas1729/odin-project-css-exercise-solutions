@@ -19,3 +19,9 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 | -------- | ---------- | --------- |
 | [01-margin-and-padding](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/01-margin-and-padding-1#margin-and-padding-practice) | [Before](https://codepen.io/saritkdas1729/pen/MWXddrP) [After](https://codepen.io/saritkdas1729/pen/qBKGGgb) [Code](./margin-and-padding/01-margin-and-padding-1/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/01-margin-and-padding-1/solution) |
 | [margin-and-padding-02](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/02-margin-and-padding-2#margin-and-padding-2) | [Before](https://codepen.io/saritkdas1729/pen/jOKojGj) [After](https://codepen.io/saritkdas1729/pen/NWzVZwJ) [Code](./margin-and-padding/02-margin-and-padding-2/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding/02-margin-and-padding-2/solution) |
+
+## Flex
+
+| Problem | My Solution | Official Solution |
+| -------- | ---------- | --------- |
+| [01-flex-center](https://github.com/TheOdinProject/css-exercises/tree/main/flex/01-flex-center#center-this-div) | [Before](https://codepen.io/saritkdas1729/pen/qBKzWOG) [After](https://codepen.io/saritkdas1729/pen/KKejPVZ) [Code](./flex/01-flex-center/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/01-flex-center/solution) |

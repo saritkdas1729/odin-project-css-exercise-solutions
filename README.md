@@ -29,3 +29,10 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 | [03-flex-header-2](https://github.com/TheOdinProject/css-exercises/tree/main/flex/03-flex-header-2#another-common-header-style) | [Before](https://codepen.io/saritkdas1729/pen/bGKPMZp) [After](https://codepen.io/saritkdas1729/pen/poKXKor) [Code](./flex/03-flex-header-2/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/03-flex-header-2/solution) |
 | [04-flex-information](https://github.com/TheOdinProject/css-exercises/tree/main/flex/04-flex-information#a-very-common-website-feature) | [Before](https://codepen.io/saritkdas1729/pen/MWXMXpG) [After](https://codepen.io/saritkdas1729/pen/VwdJdBv) [Code](./flex/04-flex-information/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/04-flex-information/solution) |
 | [05-flex-modal](https://github.com/TheOdinProject/css-exercises/tree/main/flex/05-flex-modal#desired-outcome) | [Before](https://codepen.io/saritkdas1729/pen/MWXMBax) [After](https://codepen.io/saritkdas1729/pen/vYroXwM) [Code](./flex/05-flex-modal/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/flex/05-flex-modal/solution) |
+
+## Grid
+
+| Problem | My Solution | Official Solution |
+| -------- | ---------- | --------- |
+| [01-grid-layout-1](https://github.com/TheOdinProject/css-exercises/tree/main/grid/01-grid-layout-1#the-holy-grail-layout-with-grid) | [Before](https://codepen.io/saritkdas1729/pen/XWYvNaP) [After](https://codepen.io/saritkdas1729/pen/gOKVLGr) [Code](./grid/01-grid-layout-1/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/grid/01-grid-layout-1/solution) |
+

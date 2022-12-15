@@ -35,4 +35,5 @@ The exercises presented here are originally from [Odin Project](https://www.theo
 | Problem | My Solution | Official Solution |
 | -------- | ---------- | --------- |
 | [01-grid-layout-1](https://github.com/TheOdinProject/css-exercises/tree/main/grid/01-grid-layout-1#the-holy-grail-layout-with-grid) | [Before](https://codepen.io/saritkdas1729/pen/XWYvNaP) [After](https://codepen.io/saritkdas1729/pen/gOKVLGr) [Code](./grid/01-grid-layout-1/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/grid/01-grid-layout-1/solution) |
+| [02-grid-layout-2](https://github.com/TheOdinProject/css-exercises/tree/main/grid/02-grid-layout-2#responsive-holy-grail-layout-with-grid) | [Before](https://codepen.io/saritkdas1729/pen/jOKgVpY) [After](https://codepen.io/saritkdas1729/pen/LYrwbXP) [Code](./grid/02-grid-layout-2/) | [Solution](https://github.com/TheOdinProject/css-exercises/tree/main/grid/02-grid-layout-2/solution) |
 
